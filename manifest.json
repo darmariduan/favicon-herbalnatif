@@ -1,6 +1,6 @@
 {
-  "name": "Herbalnatif",
-  "short_name": "Herbalnatif",
+  "name": "MenaraToday",
+  "short_name": "MenaraToday",
   "start_url": "https://www.menaratoday.com/",
   "display": "standalone",
   "background_color": "#fff",
