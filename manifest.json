@@ -1,11 +1,11 @@
 {
   "name": "Herbalnatif",
   "short_name": "Herbalnatif",
-  "start_url": "https://www.herbalnatif.com/",
+  "start_url": "https://www.menaratoday.com/",
   "display": "standalone",
   "background_color": "#fff",
   "theme_color": "#2B0C93",
-  "description": "DESKRIPSI BLOG ANDA",
+  "description": "Teraktual dan Terpercaya",
   "icons": [{
     "src": "https://1.bp.blogspot.com/-3KlT-AV1XqY/XtxotYHlvpI/AAAAAAAAEUU/Y0YBYa34jFgWogC-HQFx61-VnRvLMidXACLcBGAsYHQ/s48/menaralogo.png",
     "sizes": "48x48",
